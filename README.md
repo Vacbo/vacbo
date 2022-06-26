@@ -16,5 +16,5 @@
   ##
   
 <div> 
-  ![Snake animation](https://github.com/Vacbo/vacbo/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Vacbo/Vacbo/blob/output/github-contribution-grid-snake.gif)
 </div>
