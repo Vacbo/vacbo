@@ -17,5 +17,5 @@
   ##
   
 <div> 
-  <img src="https://github.com/Vacbo/Vacbo/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Vacbo/Vacbo/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
